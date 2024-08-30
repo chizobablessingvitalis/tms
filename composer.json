@@ -1,0 +1,12 @@
+{
+  "name": "project/hbse",
+  "type": "project",
+  "license": "1.0",
+  "autoload": {
+    "psr-4": {
+      "app\\": "server/"
+    }
+  },
+  "minimum-stability": "dev",
+  "require": {}
+}
